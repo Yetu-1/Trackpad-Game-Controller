@@ -1,0 +1,10 @@
+ew_bsp_usb.c:3:6:up	8	static
+ew_bsp_usb.c:7:6:down	8	static
+ew_bsp_usb.c:11:6:left	8	static
+ew_bsp_usb.c:15:6:right	8	static
+ew_bsp_usb.c:19:6:keyA	8	static
+ew_bsp_usb.c:23:6:keyB	8	static
+ew_bsp_usb.c:27:6:keyY	8	static
+ew_bsp_usb.c:31:6:keyX	8	static
+ew_bsp_usb.c:35:6:release	8	static
+ew_bsp_usb.c:39:6:test	8	static
